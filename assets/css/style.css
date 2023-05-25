@@ -393,10 +393,10 @@ Last change:	26 November 2014
   background-color: #1a1a1a;
 }
 .ct-u-backgroundDarkGrey {
-  background-color: #343434;
+  background-color: #d5b272;
 }
 .ct-u-backgroundBlack {
-  background-color: black !important;
+  background-color: #6da360 !important;
 }
 .ct-u-backgroundDarkAnother {
   background-color: #0d0d0d;
@@ -1019,7 +1019,7 @@ nav .dropdown-menu > li > a:before {
   z-index: 9000;
 }
 .ct-navbarMobile.ct-navbarMobile--inverse {
-  background-color: #1a1a1a;
+  background-color: #6da360;
   color: #ffffff;
 }
 .ct-navbarMobile .navbar-brand {
@@ -1046,7 +1046,7 @@ nav .dropdown-menu > li > a:before {
 }
 .ct-menuMobile {
   position: fixed;
-  background-color: #1a1a1a;
+  background-color: #6da360;
   top: 0;
   right: 0;
   bottom: 0;
@@ -4232,10 +4232,10 @@ body.boxed .ct-pageWrapper,
   color: #c0b17b;
 }
 footer.ct-footer .ct-copyright > span > a {
-  color: #c0b17b;
+  color: #FFFFFF;
 }
 footer.ct-footer .ct-footerBottom .ct-company i {
-  color: #c0b17b;
+  color: #FFFFFF;
 }
 .ct-gallery-filters li a.active:before {
   border: 4px solid #c0b17b;
@@ -4298,12 +4298,12 @@ nav .dropdown-menu > li > a:active:before {
   background-color: #c0b17b;
 }
 .ct-menuMobile .ct-menuMobile-navbar li a {
-  color: #c0b17b;
+  color: #FFFFFF;
 }
 .ct-menuMobile .ct-menuMobile-navbar .dropdown.open .dropdown-menu li:hover,
 .ct-menuMobile .ct-menuMobile-navbar .dropdown.open .dropdown-menu li:focus,
 .ct-menuMobile .ct-menuMobile-navbar .dropdown.open .dropdown-menu li:active {
-  background-color: #c0b17b;
+  background-color: #FFFFFF;
 }
 .ct-menuMobile .ct-menuMobile-navbar .dropdown.open .dropdown-menu li:hover a,
 .ct-menuMobile .ct-menuMobile-navbar .dropdown.open .dropdown-menu li:focus a,
@@ -4320,14 +4320,14 @@ nav .dropdown-menu > li > a:active:before {
   background-color: transparent;
 }
 .ct-menuMobile .ct-menuMobile-navbar .dropdown.open .dropdown-menu li.dropdown-submenu a {
-  color: #c0b17b;
+  color: #FFFFFF;
   background-color: transparent;
 }
 .ct-menuMobile .ct-menuMobile-navbar .dropdown.open .dropdown-menu li.dropdown-submenu .dropdown-menu {
   background-color: transparent;
 }
 .ct-menuMobile .ct-menuMobile-navbar .dropdown.open .dropdown-menu li.dropdown-submenu .dropdown-menu li {
-  color: #c0b17b;
+  color: #FFFFFF;
   background-color: transparent;
 }
 .ct-menuMobile .ct-menuMobile-navbar .dropdown.open .dropdown-menu li.dropdown-submenu .dropdown-menu li a {
@@ -4342,7 +4342,7 @@ nav .dropdown-menu > li > a:active:before {
 .ct-menuMobile .ct-menuMobile-navbar .dropdown.open .dropdown-menu li.dropdown-submenu .dropdown-menu li:focus,
 .ct-menuMobile .ct-menuMobile-navbar .dropdown.open .dropdown-menu li.dropdown-submenu .dropdown-menu li:active {
   color: black;
-  background-color: #c0b17b;
+  background-color: #FFFFFF;
 }
 .ct-menuMobile .ct-menuMobile-navbar .dropdown > .dropdown-menu .dropdown-submenu > .dropdown-menu li a {
   color: #c0b17b;
@@ -4350,7 +4350,7 @@ nav .dropdown-menu > li > a:active:before {
 .ct-menuMobile .ct-menuMobile-navbar .dropdown > .dropdown-menu .dropdown-submenu.open .dropdown-menu li:hover a,
 .ct-menuMobile .ct-menuMobile-navbar .dropdown > .dropdown-menu .dropdown-submenu.open .dropdown-menu li:focus a,
 .ct-menuMobile .ct-menuMobile-navbar .dropdown > .dropdown-menu .dropdown-submenu.open .dropdown-menu li:active a {
-  background-color: #c0b17b;
+  background-color: #FFFFFF;
   color: black;
 }
 .is-active a {
@@ -4506,7 +4506,7 @@ a[href^="mailto"]:active {
 }
 .ct-topBar {
   position: relative;
-  background-color: #1a1a1a;
+  background-color: #6da360;
   padding-top: 25px;
   padding-bottom: 80px;
   z-index: 999998;
@@ -5121,7 +5121,7 @@ ul.ct-socials.ct-socials--noBorder.ct-socials--darkColor li a i {
 }
 footer.ct-footer .ct-copyright {
   display: block;
-  color: #5f5f5f;
+  color: #FFFFFF;
   font-size: 14px;
   padding-bottom: 5px;
 }
@@ -5138,7 +5138,7 @@ footer.ct-footer .ct-copyright .ct-copyrightCompany:active {
   color: #fff;
 }
 footer.ct-footer .ct-footerUp {
-  background-color: #000;
+  background-color: #d5b272;
 }
 footer.ct-footer .ct-footerUp ul {
   margin-bottom: 0;
@@ -5219,7 +5219,7 @@ footer.ct-footer .ct-footerUp ul li:first-child:before {
 }
 footer.ct-footer .ct-footerMiddle {
   position: relative;
-  background-color: #1a1a1a;
+  background-color: #6da360;
   padding-top: 30px;
   padding-bottom: 45px;
 }
@@ -5254,7 +5254,7 @@ footer.ct-footer .ct-footerMiddle .ct-scrollUpButton .ct-sectioButton--square {
   -o-transition: all 0.3s ease;
   transition: all 0.3s ease;
   padding: 6px 12px;
-  background-color: #1A1A1A;
+  background-color: #d5b272;
   display: block;
   border: 2px solid #5f5f5f;
 }
@@ -5341,14 +5341,14 @@ footer.ct-footer .ct-footerBottom > span > a:focus {
   color: inherit;
 }
 footer.ct-footer .ct-footerBottom .ct-copyrightCompany {
-  color: #5f5f5f;
+  color: #FFFFFF;
 }
 footer.ct-footer .ct-footerBottom .ct-copyrightCompany:hover,
 footer.ct-footer .ct-footerBottom .ct-copyrightCompany:active {
   color: #fff;
 }
 footer.ct-footer .ct-footerBottom .ct-company {
-  color: #5f5f5f;
+  color: #FFFFFF;
   font-size: 14px;
 }
 footer.ct-footer .ct-footerBottom .ct-company a {
@@ -5365,7 +5365,7 @@ footer.ct-footer .ct-footerBottom .ct-company i:focus {
 }
 footer.ct-footer.ct-footer--small .ct-footerMiddle {
   display: block;
-  color: #5f5f5f;
+  color: #FFFFFF;
   font-size: 14px;
   padding-bottom: 5px;
 }
@@ -7281,7 +7281,7 @@ img.mfp-img {
   padding-right: 0;
 }
 .ct-aboutSection {
-  background-color: #1a1a1a;
+  background-color: #d5b272;
 }
 .ct-aboutSection .ct-buttonList li {
   padding-right: 22px;
@@ -7311,12 +7311,12 @@ img.mfp-img {
 .ct-u-traingleFigure:after {
   right: 0;
   border-width: 0 1000px 80px 0;
-  border-color: transparent #343434 transparent transparent;
+  border-color: transparent #6da360 transparent transparent;
 }
 .ct-u-traingleFigure:before {
   left: 0;
   border-width: 80px 1000px 0 0;
-  border-color: #343434 transparent transparent transparent;
+  border-color: #6da360 transparent transparent transparent;
 }
 .ct-iconDivider {
   position: relative;
@@ -7342,10 +7342,10 @@ img.mfp-img {
   width: 55px;
 }
 .ct-iconDivider.ct-iconDivider--dark {
-  color: #484848;
+  color: #ffffff;
 }
 .ct-iconDivider.ct-iconDivider--lightDark {
-  color: #696969;
+  color: #FFFFFF;
 }
 .ct-iconDivider.ct-iconDivider--white {
   color: #fff;
