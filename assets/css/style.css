@@ -4534,7 +4534,7 @@ a[href^="mailto"]:active {
     font-size: 22px;
   }
   .ct-topBar .ct-contactBox .ct-contactBox-content {
-    font-size: 21px !important;
+    font-size: 15px !important;
   }
   .ct-topBar .ct-contactBox .ct-contactBox-info {
     font-size: 8px;
@@ -4585,7 +4585,7 @@ a[href^="mailto"]:active {
     font-size: 22px;
   }
   .ct-topBar.ct-topBar--small .ct-contactBox .ct-contactBox-content {
-    font-size: 21px !important;
+    font-size: 15px !important;
   }
   .ct-topBar.ct-topBar--small .ct-contactBox .ct-contactBox-info {
     font-size: 8px;
@@ -5305,7 +5305,7 @@ footer.ct-footer .ct-footerMiddle .ct-scrollUpButton.ct-scrollUpButton--Top {
     font-size: 22px;
   }
   footer.ct-footer .ct-footerMiddle .ct-contactBox .ct-contactBox-content {
-    font-size: 21px !important;
+    font-size: 15px !important;
   }
   footer.ct-footer .ct-footerMiddle .ct-contactBox .ct-contactBox-info {
     font-size: 13px;
@@ -5809,7 +5809,7 @@ textarea.form-control {
     font-size: 22px;
   }
   .ct-contactBox .ct-contactBox-content {
-    font-size: 21px !important;
+    font-size: 15px !important;
   }
   .ct-contactBox .ct-contactBox-info {
     font-size: 13px;
@@ -5832,7 +5832,7 @@ textarea.form-control {
     font-size: 22px;
   }
   .ct-contactPage .ct-contactBox .ct-contactBox-content {
-    font-size: 21px !important;
+    font-size: 15px !important;
   }
   .ct-contactPage .ct-contactBox .ct-contactBox-info {
     font-size: 13px;
