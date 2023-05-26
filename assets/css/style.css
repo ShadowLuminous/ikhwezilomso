@@ -393,7 +393,7 @@ Last change:	26 November 2014
   background-color: #1a1a1a;
 }
 .ct-u-backgroundDarkGrey {
-  background-color: #d5b272;
+  background-color: #b82214;
 }
 .ct-u-backgroundBlack {
   background-color: #b82214 !important;
@@ -5138,7 +5138,7 @@ footer.ct-footer .ct-copyright .ct-copyrightCompany:active {
   color: #fff;
 }
 footer.ct-footer .ct-footerUp {
-  background-color: #d5b272;
+  background-color: #b82214;
 }
 footer.ct-footer .ct-footerUp ul {
   margin-bottom: 0;
@@ -5254,7 +5254,7 @@ footer.ct-footer .ct-footerMiddle .ct-scrollUpButton .ct-sectioButton--square {
   -o-transition: all 0.3s ease;
   transition: all 0.3s ease;
   padding: 6px 12px;
-  background-color: #d5b272;
+  background-color: #b82214;
   display: block;
   border: 2px solid #5f5f5f;
 }
@@ -7281,7 +7281,7 @@ img.mfp-img {
   padding-right: 0;
 }
 .ct-aboutSection {
-  background-color: #d5b272;
+  background-color: #b82214;
 }
 .ct-aboutSection .ct-buttonList li {
   padding-right: 22px;
