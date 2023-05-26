@@ -4537,7 +4537,7 @@ a[href^="mailto"]:active {
     font-size: 21px !important;
   }
   .ct-topBar .ct-contactBox .ct-contactBox-info {
-    font-size: 13px;
+    font-size: 8px;
   }
 }
 @media (max-width: 991px) {
@@ -4588,7 +4588,7 @@ a[href^="mailto"]:active {
     font-size: 21px !important;
   }
   .ct-topBar.ct-topBar--small .ct-contactBox .ct-contactBox-info {
-    font-size: 13px;
+    font-size: 8px;
   }
 }
 @media (max-width: 767px) {
@@ -5106,11 +5106,11 @@ ul.ct-socials.ct-socials--noBorder.ct-socials--darkColor li a i {
   padding-top: 14px;
 }
 .ct-contactBox .ct-contactBox-content {
-  font-size: 30px;
+  font-size: 20px;
   padding-top: 20px;
 }
 .ct-contactBox .ct-contactBox-info {
-  font-size: 14px;
+  font-size: 11px;
   margin-top: -8px;
 }
 .img-thumbnail {
